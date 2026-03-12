@@ -10,3 +10,4 @@ The project documentation will be built during the bootcamp sessions.
 
 - [Project Overview](../docs/project-overview.md) - Overview of the project
 - [Functional Requirements](../docs/functional-requirements.md) - Functional requirements for task management features
+- [UI Guidelines](../docs/ui-guidelines.md) - UI and design standards for the application
